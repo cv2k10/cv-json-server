@@ -1,0 +1,50 @@
+{ "data": [
+    {
+        "name": "BMW 5 Series (G30) 2016 - Present",
+        "make": "BMW",
+        "model": "BMW 5 Series",
+        "availability": "In Dealership",
+        "price": 75000,
+        "src": "https://www.dropbox.com/s/1x1mo31o5qggtg0/BMW-5-Series.jpg?raw=1"
+    },
+    {
+        "name": "BMW i8 Roadster 2018 - Present",
+        "make": "BMW",
+        "model": "BMW i8 Series",
+        "availability": "Out of Stock",
+        "price": 310000,
+        "src": "https://www.dropbox.com/s/l9xsqda4u5d9aau/BMW-i8-Roadster.jpg?raw=1"
+    },
+    {
+        "name": "MERCEDES BENZ C-Class (W205)",
+        "make": "MERCEDES BENZ",
+        "model": "C-Class Series",
+        "availability": "In Dealership",
+        "price": 250000,
+        "src": "https://www.dropbox.com/s/jjfpjah6tltsjdf/MERCEDES-BENZ-C-Class.jpg?raw=1"
+    },
+    {
+        "name": "LEXUS RC 2018 - Present",
+        "make": "LEXUS",
+        "model": "RC Series",
+        "availability": "Out of Stock",
+        "price": 50750,
+        "src": "https://www.dropbox.com/s/shmryma1m0odau6/LEXUS-RC.jpg?raw=1"
+    },
+    {
+        "name": "LAMBORGHINI Urus 2018 - Present",
+        "make": "LAMBORGHINI",
+        "model": "Urus Series",
+        "availability": "Not Available",
+        "price": 350000,
+        "src": "https://www.dropbox.com/s/w1kdgpisvmfzl8l/LAMBORGHINI-Urus.jpg?raw=1"
+    },
+    {
+        "name": "ASTON MARTIN DB11 AMR 2018 - Present",
+        "make": "ASTON MARTIN",
+        "model": "DB11 AMR Series",
+        "availability": "Not Available",
+        "price": 320000,
+        "src": "https://www.dropbox.com/s/u7fu7ryxswr4vpc/ASTON-MARTIN-DB11.jpg?raw=1"
+    }
+] }
